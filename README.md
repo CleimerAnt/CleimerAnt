@@ -1,63 +1,39 @@
-<div align="center">
-<h2> Hola Desarrolladores <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
+## 👋 ¡Hola, soy Cleimes Lorenzo!  
+### 💻 Backend Developer | 🌐 Full-Stack Enthusiast | 🏋️‍♂️ Fitness Fanatic
 
-<div align="center" width="50">
+---
 
+### 🚀 Sobre mí
+Soy un apasionado de la tecnología y el desarrollo de software con experiencia en **C# (.NET)**, **SQL Server**, **Entity Framework Core**, y **React**. Disfruto construir aplicaciones robustas, optimizadas y escalables, y me encanta enfrentar nuevos retos que amplíen mis conocimientos.
 
-</div>
+También me interesa la **arquitectura de software**, los **patrones de diseño**, y la integración de tecnologías modernas como **Docker** y **microservicios**. Siempre estoy buscando mejorar mis habilidades y aprender nuevas tecnologías. Además, ¡también soy un apasionado del fitness! 💪
 
-<div align="center">
+---
 
+### 🛠️ Tecnologías y Herramientas
+- **Backend:** C# (.NET Core, ASP.NET), Entity Framework Core, Dapper, Pega
+- **Frontend:** React, Material UI, Bootstrap
+- **Base de Datos:** SQL Server
+- **DevOps:** Docker, Docker Compose, CI/CD, Git
+- **Otros:** POO, Arquitectura Onion, Patrones de Diseño, CQRS con Mediator, Singleton, Inyección de Dependencias, Genéricos con Entity Framework
 
-Has encontrado finalmente mi perfil de Github. <br>
-No dudes en clonar, plantear problemas y enviar PRs si crees que algo podría mejorar. <br>
-Pregúntame lo que quieras.<a href="https://github.com/CleimerAnt"><b>here</b></a><br>
-or <a href="mailto:cleimer2020@gmail.com"><b>email</b></a> me
+---
 
-<i>Happy Coding!</i> 😊
+### 📈 Mis Proyectos Destacados
+🔹 **📊 Aplicación de Gestión de Calorías:** Una plataforma para registrar alimentos y calcular el consumo calórico diario.  
+🔹 **🎬 Plataforma de Series y Productoras:** Proyecto MVC en .NET para administrar series, géneros y productoras con un repositorio genérico y Docker.  
+🔹 **🏠 Real State App:** Proyecto robusto desarrollado con **.NET**, siguiendo la **Arquitectura Onion**, con **Identity Framework** y **Entity Framework Core**. Incluye una **API** y un proyecto **MVC** para la gestión de bienes raíces con funcionalidades avanzadas.  
+🔹 **💼 Portafolio Personal:** Página web en React donde muestro mis proyectos y habilidades.  
+🔹 **🍽️ API para Restaurante:** API en .NET para gestionar pedidos, clientes y administración de un restaurante.  
 
-</div>
+[🔗 Ver todos mis proyectos](https://github.com/CleimerAnt)
 
-<div align="center">
+---
 
+### 📫 ¡Conéctate conmigo!
+🌍 [LinkedIn](https://www.linkedin.com/in/cleimes-lorenzo-28a7b8265/)  
+📩 cleimer2020@gmail.com 
+📸 [Instagram](https://www.instagram.com/cleimer.ant/)  
 
+💡 *"La mejor manera de predecir el futuro es crearlo."*
 
-</br>
-</br>
-
-
-<i>Sigueme:</i><br>
-
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
-
-<a href="https://www.linkedin.com/in/cleimes-lorenzo-28a7b8265/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/cleimer.ant/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
-</div>
-
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
-
-<!--
-**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
------
-Credits: [ABSphreak](https://github.com/ABSphreak)
-
-Last Edited on: 30/08/2020
