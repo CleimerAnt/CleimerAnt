@@ -12,7 +12,7 @@ También me interesa la **arquitectura de software**, los **patrones de diseño*
 
 ### 🛠️ Tecnologías y Herramientas
 - **Backend:** C# (.NET Core, ASP.NET), Entity Framework Core, Dapper, Pega
-- **Frontend:** React, Material UI, Bootstrap
+- **Frontend:** React, Material UI, Bootstrap,Tailwind CSS
 - **Base de Datos:** SQL Server
 - **DevOps:** Docker, Docker Compose, CI/CD, Git
 - **Otros:** POO, Arquitectura Onion, Patrones de Diseño, CQRS con Mediator, Singleton, Inyección de Dependencias, Genéricos con Entity Framework
